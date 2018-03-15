@@ -1,0 +1,2 @@
+# NewsScraper
+Group One Project
